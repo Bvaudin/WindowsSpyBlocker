@@ -1,4 +1,4 @@
-FROM squidfunk/mkdocs-material:7.1.3
+FROM squidfunk/mkdocs-material:9.0.3
 
 RUN apk add --no-cache \
     git \
